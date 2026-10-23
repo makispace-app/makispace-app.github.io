@@ -1,3 +1,4 @@
+[privacy-policy.md](https://github.com/user-attachments/files/33889585/privacy-policy.md)
 # Makispace Privacy Policy
 
 **Effective date:** 2026-10-23
