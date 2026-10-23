@@ -1,6 +1,7 @@
+[support.md](https://github.com/user-attachments/files/33889614/support.md)
 # Makispace Support
 
-Makispace finds space you can safely reclaim in your iPhone photo library: large videos, Live Photo clips, blurry shots, old screenshots, and near-duplicate bursts. Everything happens on your device.
+Makispace finds space you can safely reclaim in your iPhone or iPad photo library: large videos, Live Photo clips, blurry shots, old screenshots, and near-duplicate bursts. Everything happens on your device.
 
 ## Contact
 
@@ -14,7 +15,7 @@ Yes, for 30 days. Items you delete with Makispace go to the **Recently Deleted**
 
 ### Does Makispace upload my photos?
 
-No. Scanning, quality scoring, and compression all run on your iPhone. Makispace has no servers, accounts, ads, or analytics. If a photo or video is stored only in iCloud, the Photos app may download it from Apple when you play, compress, or convert it. See the [Privacy Policy](privacy.md) for details.
+No. Scanning, quality scoring, and compression all run on your device. Makispace has no servers, accounts, ads, or analytics. If a photo or video is stored only in iCloud, the Photos app may download it from Apple when you play, compress, or convert it. See the [Privacy Policy](privacy.md) for details.
 
 ### Will compressing a video lose its date or location?
 
@@ -46,7 +47,7 @@ Apple handles all payments and refunds. Request one at **[reportaproblem.apple.c
 
 ## Requirements
 
-iPhone with iOS 18 or later.
+iPhone with iOS 18 or later, or iPad with iPadOS 18 or later.
 
 ---
 
